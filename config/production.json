@@ -1,0 +1,6 @@
+{
+	"S3AccessKey":"AKIAI6T2TZG6LE7W7XQQ",
+	"S3Secret":"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",
+	"S3Bucket": "photobomb1",
+	"dbUrl":"mongodb://ludiculous:123456@ds055535.mongolab.com:55535/photobomb"
+}

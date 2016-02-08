@@ -1,0 +1,21 @@
+#handleUpload, input[type="file"]{
+	display: none;
+}
+
+.progress-bar{
+	display: inline-block;
+}
+
+ul li {
+	list-style: none;
+}
+.voteCount{
+	color:red;
+}
+.progress{
+	display: none;
+}
+
+.pgrid{
+	padding-bottom: 30px;
+}
